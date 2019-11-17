@@ -6,4 +6,4 @@
 *Larry Plotter y el malware de fuego
 *Larry Plotter y la orden de unix
 *Larry Plotter y el misterio del Hacker 
-
+*Larry Plotter y los comics de la muert
